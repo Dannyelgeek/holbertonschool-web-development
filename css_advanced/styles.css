@@ -1,6 +1,7 @@
 html,
 body {
     margin: 0px;
+    overflow-x: hidden;
 }
 
 header .background {
@@ -187,7 +188,7 @@ header .logo {
     line-height: normal;
 }
 
-.first-word {
+.first_word {
     color: #C271FF;
     text-align: center;
     font-family: Source Sans Pro;
@@ -347,4 +348,472 @@ header .logo {
     font-style: italic;
     font-weight: 400;
     line-height: 24px;
+}
+
+.quote {
+    width: 100%;
+    height: 392px;
+    background: #C271FF;
+}
+
+.quote_img {
+    position: relative;
+    top: 108px;
+    right: 1020px;
+    left: 260px;
+    border-radius: 100%;
+}
+
+.quote_text {
+    position: absolute;
+    top: 1163px;
+    right: 238px;
+    left: 472px;
+}
+
+blockquote {
+    margin: 0;
+}
+
+cite {
+    color: #FFF;
+    font-family: Source Sans Pro;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 33.6px;
+}
+
+.quote_name {
+    margin: 22px 0px 0px;
+    color: #FFF;
+    font-family: Source Sans Pro;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 33.6px;
+}
+
+.quote_job {
+    margin-top: 6px;
+    color: #FFF;
+    font-family: Source Sans Pro;
+    font-size: 22px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 33.6px;
+}
+
+.tutorials {
+    width: 100%;
+    height: 600px;
+    background-color: white;
+}
+
+.tutorials_title {
+    position: absolute;
+    top: 1506px;
+    right: 558px;
+    left: 588px;
+    white-space: nowrap;
+    color: #071629;
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
+.second_word {
+    color: #C271FF;
+    font-family: Source Sans Pro;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.video1 {
+    position: relative;
+    top: 202px;
+    right: 1021px;
+    left: 164px;
+}
+
+.diagonal_img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.play1 {
+    position: absolute;
+    top: 45px;
+    left: 95px;
+    z-index: 2;
+}
+
+.diagonal_title {
+    position: absolute;
+    top: 1820px;
+    right: 1157px;
+    left: 177px;
+    white-space: nowrap;
+    color: #071629;
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.diagonal_text {
+    width: 242px;
+    position: absolute;
+    top: 1846px;
+    right: 1021px;
+    left: 177px;
+    color: rgba(7, 22, 41, 0.50);
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.phillip_channel_img1 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 1915px;
+    left: 177px;
+    right: 1233px;
+    border-radius: 100%;
+}
+
+.phillip_channel_name1 {
+    position: absolute;
+    top: 1903px;
+    right: 1134px;
+    left: 220px;
+    white-space: nowrap;
+    color: #C271FF;
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 27px;
+}
+
+.stars1 {
+    position: absolute;
+    top: 1959px;
+    right: 1156px;
+    left: 177px;
+}
+
+.video_duration1 {
+    position: absolute;
+    margin: 0;
+    top: 1953px;
+    right: 1043px;
+    left: 363px;
+    white-space: nowrap;
+    color: #C271FF;
+    text-align: right;
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 27px;
+}
+
+.video2 {
+    position: relative;
+    top: 202px;
+    right: 735px;
+    left: 450px;
+}
+
+.sad_img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.play2 {
+    position: absolute;
+    top: 45px;
+    left: 95px;
+    z-index: 2;
+}
+
+.sad_title {
+    position: absolute;
+    top: 1820px;
+    right: 907px;
+    left: 463px;
+    white-space: nowrap;
+    color: #071629;
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.sad_text {
+    width: 242px;
+    position: absolute;
+    top: 1846px;
+    right: 735px;
+    left: 463px;
+    color: rgba(7, 22, 41, 0.50);
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.phillip_channel_img2 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 1915px;
+    right: 947px;
+    left: 463px;
+    border-radius: 100%;
+}
+
+.phillip_channel_name2 {
+    position: absolute;
+    top: 1903px;
+    right: 848px;
+    left: 506px;
+    white-space: nowrap;
+    color: #C271FF;
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 27px;
+}
+
+.stars2 {
+    position: absolute;
+    top: 1959px;
+    right: 870px;
+    left: 463px;
+}
+
+.video_duration2 {
+    position: absolute;
+    margin: 0;
+    top: 1953px;
+    right: 757px;
+    left: 649px;
+    white-space: nowrap;
+    color: #C271FF;
+    text-align: right;
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 27px;
+}
+
+.video3 {
+    position: relative;
+    top: 202px;
+    right: 450px;
+    left: 735px;
+}
+
+.natural_img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.play3 {
+    position: absolute;
+    top: 45px;
+    left: 95px;
+    z-index: 2;
+}
+
+.natural_title {
+    position: absolute;
+    top: 1820px;
+    right: 595px;
+    left: 748px;
+    white-space: nowrap;
+    color: #071629;
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.natural_text {
+    width: 242px;
+    position: absolute;
+    top: 1846px;
+    right: 495px;
+    left: 748px;
+    color: rgba(7, 22, 41, 0.50);
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.phillip_channel_img3 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 1915px;
+    right: 662px;
+    left: 748px;
+    border-radius: 100%;
+}
+
+.phillip_channel_name3 {
+    position: absolute;
+    top: 1903px;
+    right: 563px;
+    left: 791px;
+    white-space: nowrap;
+    color: #C271FF;
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 27px;
+}
+
+.stars3 {
+    position: absolute;
+    top: 1959px;
+    right: 585px;
+    left: 748px;
+}
+
+.video_duration3 {
+    position: absolute;
+    margin: 0;
+    top: 1953px;
+    right: 472px;
+    left: 934px;
+    white-space: nowrap;
+    color: #C271FF;
+    text-align: right;
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 27px;
+}
+
+.video4 {
+    position: relative;
+    top: 202px;
+    right: 165px;
+    left: 1020px;
+}
+
+.happy_img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.play4 {
+    position: absolute;
+    top: 45px;
+    left: 95px;
+    z-index: 2;
+}
+
+.happy_title {
+    position: absolute;
+    top: 1820px;
+    right: 318px;
+    left: 1033px;
+    white-space: nowrap;
+    color: #071629;
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.happy_text {
+    width: 242px;
+    position: absolute;
+    top: 1846px;
+    right: 165px;
+    left: 1033px;
+    color: rgba(7, 22, 41, 0.50);
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.phillip_channel_img4 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 1915px;
+    right: 377px;
+    left: 1033px;
+    border-radius: 100%;
+}
+
+.phillip_channel_name4 {
+    position: absolute;
+    top: 1903px;
+    right: 278px;
+    left: 1076px;
+    white-space: nowrap;
+    color: #C271FF;
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 27px;
+}
+
+.stars4 {
+    position: absolute;
+    top: 1959px;
+    right: 300px;
+    left: 1033px;
+}
+
+.video_duration4 {
+    position: absolute;
+    margin: 0;
+    top: 1953px;
+    right: 187px;
+    left: 1219px;
+    white-space: nowrap;
+    color: #C271FF;
+    text-align: right;
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 27px;
 }
