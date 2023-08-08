@@ -1,0 +1,350 @@
+html,
+body {
+    margin: 0px;
+}
+
+header .background {
+    position: relative;
+    width: 100%;
+    height: 1055px;
+    background: url(/images/Bitmap.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    filter: grayscale(100%);
+}
+
+header .logo {
+    width: 167.016px;
+    height: 29.461px;
+    position: absolute;
+    align-items: center;
+    top: 35.02px;
+    right: 1105.47px;
+    bottom: 924.52px;
+    left: 175.67px;
+    width: 167.016px;
+    height: 29.461px;
+    z-index: 2;
+}
+
+.cover {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 1055px;
+    justify-content: center;
+    gap: 52px;
+    background: radial-gradient(85.90% 85.90% at 50.00% 10%, rgba(41, 48, 61, 0.00) 0%, #071629 100%);
+    background-blend-mode: normal, color;
+}
+
+.link1 {
+    position: absolute;
+    right: 353.08px;
+    left: 1045.08px;
+    top: 35.02px;
+    bottom: 937px;
+    color: #FFF;
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: none;
+}
+
+.link2 {
+    position: absolute;
+    right: 256.08px;
+    left: 1147.08px;
+    top: 35.02px;
+    bottom: 937px;
+    color: #FFF;
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: none;
+}
+
+.link3 {
+    position: absolute;
+    right: 169.08px;
+    left: 1245.08px;
+    top: 35.02px;
+    bottom: 937px;
+    color: #FFF;
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: none;
+}
+
+.slogan {
+    position: absolute;
+    white-space: nowrap;
+    top: 154px;
+    right: 381.08px;
+    bottom: 722px;
+    left: 383.08px;
+    color: #FFF;
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-size: 120px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.k_word1 {
+    position: absolute;
+    width: 52px;
+    height: 20px;
+    top: 380px;
+    right: 814px;
+    left: 587px;
+    color: #FFF;
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.k_word2 {
+    position: absolute;
+    width: 52px;
+    height: 20px;
+    top: 380px;
+    right: 704px;
+    left: 698px;
+    color: #FFF;
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.k_word3 {
+    position: absolute;
+    width: 52px;
+    height: 20px;
+    top: 380px;
+    right: 598px;
+    left: 809px;
+    color: #FFF;
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.btn_primary {
+    position: absolute;
+    width: 162px;
+    height: 44px;
+    top: 452px;
+    left: 643px;
+    right: 643;
+    color: white;
+    border-radius: 22px;
+    background: #C271FF;
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    border: none;
+    box-shadow: 0px 0px 12px #071629;
+    cursor: pointer;
+}
+
+.phrase {
+    position: absolute;
+    top: 631px;
+    right: 563px;
+    bottom: 318px;
+    left: 608px;
+    white-space: nowrap;
+    color: #FFF;
+    font-family: Source Sans Pro;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
+.first-word {
+    color: #C271FF;
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.phillip_img {
+    position: absolute;
+    top: 758px;
+    right: 1077px;
+    left: 221px;
+    border-radius: 100%;
+}
+
+.phillip_name {
+    position: absolute;
+    width: 150px;
+    top: 901px;
+    right: 1041xp;
+    left: 221px;
+    color: #FFF;
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 27px;
+}
+
+.phillip_info {
+    position: absolute;
+    width: 150px;
+    top: 938px;
+    right: 1041px;
+    left: 221px;
+    color: #FFF;
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.nannie_img {
+    position: absolute;
+    top: 758px;
+    right: 588px;
+    left: 510px;
+    border-radius: 100%;
+}
+
+.nannie_name {
+    position: absolute;
+    width: 150px;
+    top: 901px;
+    right: 784px;
+    left: 506px;
+    color: #FFF;
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 27px;
+}
+
+.nannie_info {
+    position: absolute;
+    width: 150px;
+    top: 938px;
+    right: 784px;
+    left: 506px;
+    color: #FFF;
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.bruce_img {
+    position: absolute;
+    top: 758px;
+    right: 507px;
+    left: 791px;
+    border-radius: 100%;
+}
+
+.bruce_name {
+    position: absolute;
+    width: 150px;
+    top: 901px;
+    right: 501px;
+    left: 792px;
+    color: #FFF;
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 27px;
+}
+
+.bruce_info {
+    position: absolute;
+    width: 150px;
+    top: 938px;
+    right: 499px;
+    left: 791px;
+    color: #FFF;
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.henry_img {
+    position: absolute;
+    top: 758px;
+    right: 216px;
+    left: 1076px;
+    border-radius: 100%;
+}
+
+.henry_name {
+    position: absolute;
+    width: 150px;
+    top: 901px;
+    right: 214px;
+    left: 1076px;
+    color: #FFF;
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 27px;
+}
+
+.henry_info {
+    position: absolute;
+    width: 150px;
+    top: 938px;
+    right: 214px;
+    left: 1076px;
+    color: #FFF;
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 24px;
+}
