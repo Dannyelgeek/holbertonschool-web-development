@@ -539,6 +539,8 @@ cite {
 
 .sad_img {
     position: absolute;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
     top: 0;
     left: 0;
     z-index: 1;
@@ -635,6 +637,8 @@ cite {
 
 .natural_img {
     position: absolute;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
     top: 0;
     left: 0;
     z-index: 1;
@@ -731,6 +735,8 @@ cite {
 
 .happy_img {
     position: absolute;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
     top: 0;
     left: 0;
     z-index: 1;
