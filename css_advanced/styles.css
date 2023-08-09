@@ -1011,3 +1011,138 @@ cite {
     border: none;
     box-shadow: 0px 0px 12px #071629;
 }
+
+.faq_section {
+    width: 100%;
+    height: 707px;
+    background: white;
+}
+
+.faq_title {
+    position: absolute;
+    top: 2594px;
+    right: 648px;
+    left: 656px;
+    color: #071629;
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
+.faq_subtitle1 {
+    position: absolute;
+    top: 2780px;
+    right: 1046px;
+    left: 249px;
+    color: #071629;
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.faq_text1 {
+    position: absolute;
+    top: 2830px;
+    right: 746px;
+    left: 249px;
+    color: rgba(7, 22, 41, 0.50);
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.faq_subtitle2 {
+    position: absolute;
+    top: 2780px;
+    right: 476px;
+    left: 819px;
+    color: #071629;
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.faq_text2 {
+    position: absolute;
+    top: 2830px;
+    right: 178px;
+    left: 819px;
+    color: rgba(7, 22, 41, 0.50);
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.faq_subtitle3 {
+    position: absolute;
+    top: 3096px;
+    right: 1046px;
+    left: 249px;
+    color: #071629;
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.faq_text3 {
+    position: absolute;
+    top: 3146px;
+    right: 746px;
+    left: 249px;
+    color: rgba(7, 22, 41, 0.50);
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.faq_subtitle4 {
+    position: absolute;
+    top: 3096px;
+    right: 476px;
+    left: 819px;
+    color: #071629;
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.faq_text4 {
+    position: absolute;
+    top: 3146px;
+    right: 178px;
+    bottom: 47px;
+    left: 819px;
+    color: rgba(7, 22, 41, 0.50);
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+footer {
+    width: 100%;
+    height: 249px;
+    background: #071629;
+}
